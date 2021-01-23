@@ -1,2 +1,3 @@
 # BLEHackme_writeup
-Writeup of challanges included in BLEHackMe tool.
+Writeup of challenges included in BLEHackMe tool.
+First publication soon.
